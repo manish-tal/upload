@@ -1,7 +1,7 @@
 {
-  "name": "@navjobs/upload",
-  "version": "3.1.3",
-  "description": "HOC that displays a file upload on clicking children",
+  "name": "@manishkumawat/upload",
+  "version": "3.1.4",
+  "description": "Fork of ConstructionJobs/upload",
   "main": "dist/index.js",
   "scripts": {
     "jest": "jest --config tests/config.json",
@@ -20,15 +20,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/navjobs/upload.git"
+    "url": "git+ssh://git@github.com:manish-tal/upload.git"
   },
   "keywords": ["jest", "react", "file-upload", "upload"],
   "author": "Zach Silveira",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/navjobs/upload/issues"
+    "url": "https://github.com/manish-tal/upload/issues"
   },
-  "homepage": "https://github.com/navjobs/upload#readme",
+  "homepage": "https://github.com/manish-tal/upload#readme",
   "peerDependencies": {
     "react": ">=15.0 <= 16"
   },
